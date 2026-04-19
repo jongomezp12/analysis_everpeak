@@ -1,4 +1,4 @@
-https://colab.research.google.com/github/jongomezp12/analysis_everpeak/blob/main/notebook.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jongomezp12/analysis_everpeak/blob/main/notebook.ipynb)
 # EverPeak Retail Analysis – Sprint 6
 
 Este repositorio contiene el análisis realizado durante el Sprint 6 del caso EverPeak–SilverBasket.
